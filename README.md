@@ -16,3 +16,23 @@
 - Finish the Authentication
   *     npm publish
 - Verify if your package is published in your npm profile.
+
+- Create a `html file` and write the following code to test your published package
+-     <!DOCTYPE html>
+      <html lang="en">
+      <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Test</title>
+      </head>
+      <body>
+            <script src="metric_converter.js"></script> <!-- Replace 'your-bundled-package.js' with the actual name of your bundled package -->
+            <script>
+                 // Test cases
+                 console.log(lengthConverter("meters", "kilometers", 1000)); // Expected output: 1
+                 console.log(lengthConverter("meters", "centimeters", 1)); // Expected output: 100
+                 console.log(lengthConverter("meters", "millimeters", 1)); // Expected output: ~1760
+           </script>
+      </body>
+      </html>
+

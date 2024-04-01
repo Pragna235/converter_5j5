@@ -1,0 +1,23 @@
+{
+  "name": "metric_converter",
+  "version": "1.0.0",
+  "description": "An npm module for Metric Conversion",
+  "main": "metric_converter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pragna235/metric_converter.git"
+  },
+  "keywords": [
+    "metrics",
+    "converter"
+  ],
+  "author": "Pragna",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pragna235/metric_converter/issues"
+  },
+  "homepage": "https://github.com/Pragna235/metric_converter#readme"
+}

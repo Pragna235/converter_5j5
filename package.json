@@ -1,14 +1,14 @@
 {
-  "name": "metric_converter",
+  "name": "metric_converter_5j5",
   "version": "1.0.0",
   "description": "An npm module for Metric Conversion",
-  "main": "metric_converter.js",
+  "main": "converter_5j5.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Pragna235/metric_converter.git"
+    "url": "git+https://github.com/Pragna235/converter_5j5.git"
   },
   "keywords": [
     "metrics",
@@ -17,7 +17,7 @@
   "author": "Pragna",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Pragna235/metric_converter/issues"
+    "url": "https://github.com/Pragna235/converter_5j5/issues"
   },
-  "homepage": "https://github.com/Pragna235/metric_converter#readme"
+  "homepage": "https://github.com/Pragna235/converter_5j5#readme"
 }
